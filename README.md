@@ -26,17 +26,15 @@
 
 ---
 
-### 📈 System Performance: GitHub Stats
+### 📈 System Performance: GitHub Stats & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=AI%20Core%20System%20Performance" alt="KozmikLojik's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=AI%20Core%20System%20Performance" alt="KozmikLojik's GitHub Stats" />
+  
+  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=KozmikLojik&theme=tokyonight&hide_border=true&card_width=420" alt="KozmikLojik's GitHub Streak" />
 </p>
 
----
-
-### 📊 Top Languages (Additional Visual)
-
-*You can add this next to your stats or below for a complete visual overview.*
+### 📊 Most Used Code Units
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Code%20Units" alt="KozmikLojik's Top Languages" />
