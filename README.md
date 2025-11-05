@@ -33,6 +33,16 @@
   
   <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=KozmikLojik&theme=tokyonight&hide_border=true&card_width=420" alt="KozmikLojik's GitHub Streak" />
 </p>
+---
+
+### 📝 Current Task Log (Recent GitHub Activity)
+
+<details>
+  <summary>Click to view the latest actions of the AI Core 🛰️</summary>
+
+</details>
+
+---
 
 ### 📊 Most Used Code Units
 
