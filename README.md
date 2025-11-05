@@ -252,7 +252,7 @@ kubectl get pods -n stellar-cartographer
 az login
 
 # Create resource group
-az group create --name stellar-cartographer-rg --location eastus
+az group create --resource-group stellar-cartographer-rg --location eastus
 
 # Deploy to AKS
 az aks create --resource-group stellar-cartographer-rg \
@@ -396,6 +396,16 @@ Developed for the advancement of interstellar exploration and cosmic understandi
 <p style=\"color: #666; font-size: 0.8em; font-style: italic;\">
 \"Mapping the cosmos, one neural network at a time\"
 </p>
+
+<br/>
+
+<img src=\"https://img.shields.io/badge/License-MIT-00ffff?style=for-the-badge&labelColor=0a0a0a\" alt=\"License\"/>
+<img src=\"https://img.shields.io/badge/Maintained-YES-00ff00?style=for-the-badge&labelColor=0a0a0a\" alt=\"Maintained\"/>
+<img src=\"https://img.shields.io/badge/PRs-WELCOME-lime?style=for-the-badge&labelColor=0a0a0a\" alt=\"PRs Welcome\"/>
+
+</div>
+"
+Observation: Create successful: /app/README.md
 
 <br/>
 
