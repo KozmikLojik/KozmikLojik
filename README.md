@@ -8,21 +8,11 @@
 
 ### 🧰 Languages and Tools
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_New_Logo.svg" alt="vscode" width="40" height="40"/>
-</a>
+### 🧰 Languages and Tools (Dual-Mode Template)
+
+[![Python Light](./img/python-light.svg)](https://www.python.org/#gh-light-mode-only)
+[![Python Dark](./img/python-dark.svg)](https://www.python.org/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Docker Light](./img/docker-light.svg)](https://www.docker.com/#gh-light-mode-only)
+[![Docker Dark](./img/docker-dark.svg)](https://www.docker.com/#gh-dark-mode-only)
+&nbsp;&nbsp;
