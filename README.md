@@ -1,6 +1,6 @@
 # 
 <p align="center">
-    <img src="C:\Users\pritb\Downloads\1500x500.jpg" alt="KOZMIKLOJIK Mission Banner" /> 
+    <img src="https://github.com/KozmikLojik/KozmikLojik/blob/main/1500x500.jpg" alt="KOZMIKLOJIK Mission Banner" /> 
 </p>
 
 # 🪐 KOZMIKLOJIK: Mission Profile
