@@ -1,6 +1,6 @@
 # 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/username/repo/main/images/your_space_banner.png" alt="KOZMIKLOJIK Mission Banner" /> 
+    <img src="C:\Users\pritb\Downloads\1500x500.jpg" alt="KOZMIKLOJIK Mission Banner" /> 
 </p>
 
 # 🪐 KOZMIKLOJIK: Mission Profile
