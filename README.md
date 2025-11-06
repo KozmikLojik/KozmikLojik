@@ -7,7 +7,7 @@
 ### 📡 Cosmic Connect: Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-KozmikLojik-181717?style=for-the-badge&logo=github)](https://github.com/KozmikLojik)
-[![Twitter/X](https://img.shields.io/badge/Follow-X.com-000000?style=for-the-badge&logo=x)](https://twitter.com/your-twitter-handle)
+[![Twitter/X](https://img.shields.io/badge/Follow-X.com-000000?style=for-the-badge&logo=x)](https://x.com/Prit_4K])
 > **Note:** Replace `https://twitter.com/your-twitter-handle` with your actual Twitter/X profile link if you have one!
 
 ---
