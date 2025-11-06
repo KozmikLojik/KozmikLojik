@@ -1,6 +1,7 @@
 # 
+
 <p align="center">
-    <img src="https://github.com/KozmikLojik/KozmikLojik/blob/main/1500x500.jpg" alt="KOZMIKLOJIK Mission Banner" /> 
+    <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/1500x500.jpg" alt="KOZMIKLOJIK Mission Banner" />
 </p>
 
 # 🪐 KOZMIKLOJIK: Mission Profile
@@ -14,6 +15,10 @@
 [![Mission: AI Systems](https://img.shields.io/badge/Focus-AI%20Systems-B19CD9?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/KozmikLojik?tab=repositories&q=ai)
 [![Mission: Deep Space Exploration](https://img.shields.io/badge/Theme-Deep%20Space%20Exploration-2F4F4F?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/KozmikLojik?tab=repositories&q=space)
 [![Mission: Game Dev (Story-Driven)](https://img.shields.io/badge/Project-Game%20Dev-800000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/KozmikLojik?tab=repositories&q=game)
+
+### 🛰️ Current Orbital Focus
+
+[![Working on Python/AI Systems](https://img.shields.io/badge/Focusing%20On-Ship%20System%20Design%20%26%20AI%20Core-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/KozmikLojik?tab=repositories)
 
 ### 📡 Cosmic Connect: Find Me
 
@@ -35,15 +40,37 @@
   <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=KozmikLojik&theme=tokyonight&hide_border=true&card_width=420&date=202511062210" alt="KozmikLojik's GitHub Streak" />
 </p>
 
+### 🏆 Achievement Log
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=KozmikLojik&theme=tokyonight&no-bg=true&column=7&margin-w=5&rank=-s" alt="KozmikLojik GitHub Trophies" />
+</p>
+
 ---
 
 ### 📝 Current Task Log (Recent GitHub Activity)
 
 <details>
   <summary>Click to view the latest actions of the AI Core 🛰️</summary>
-</details>
+    </details>
 
 ---
+
+### 📊 Most Used Code Units
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Code%20Units" alt="KozmikLojik's Top Languages" />
+</p>
+
+---
+
+### ⚙️ System Status
+
+> **[CORE LOG]**: Building truly cool, futuristic stuff. Destination: The Next Era of Cosmic Discovery.
+> 
+> <p align="center">
+>     <samp>.: TRANSMISSION END :. - [K.L.] - .: ALL SYSTEMS NOMINAL :.</samp>
+> </p>
 
 ### 📊 Most Used Code Units
 
