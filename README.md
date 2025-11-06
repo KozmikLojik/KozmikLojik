@@ -1,7 +1,3 @@
-# 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/1500x500.jpg" alt="KOZMIKLOJIK Mission Banner" />
-</p>
 
 # 🪐 KOZMIKLOJIK: Mission Profile
 
