@@ -38,8 +38,8 @@
 
 ### 📈 System Performance: GitHub Stats & Consistency
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=AI%20Core%20System%20Performance&date=202511062245" alt="KozmikLojik's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true" />
+
    
   <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=KozmikLojik&theme=tokyonight&hide_border=true&card_width=420&date=202511062245" alt="KozmikLojik's GitHub Streak" />
 </p>
