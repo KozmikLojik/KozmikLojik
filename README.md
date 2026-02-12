@@ -1,79 +1,87 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4500&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=KOZMIKLOJIK;Architect+of+Intelligent+Starships;Deep+Space+AI+Metrics;ALL+SYSTEMS+NOMINAL+%E2%9C%A8" alt="KozmikLojik Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4800&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=KOZMIKLOJIK;Deep+Space+AI+Architect;Autonomous+Intelligence+Core;ALL+SYSTEMS+NOMINAL+%E2%9C%A8" alt="KozmikLojik – Cosmic Signature" />
 
-  <br/>
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Status-Deep%20Space%20Operational-00f0ff?style=for-the-badge&logo=spacex&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-AI+%26+Autonomous+Systems-7B68EE?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Theme-Cosmic+Exploration-2F4F4F?style=for-the-badge&logo=nasa&logoColor=white" alt="Theme"/>
 
   <h1>✦ 📊 KOZMIK METRICS ✦</h1>
-  
-  [![GitHub Metrics](https://metrics.lecoq.io/KozmikLojik)](https://github.com/lowlighter/metrics)
-  [![CI](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions)
+
+  <p>Real-time visualization of cosmic activity, code constellations, star trajectories, and deep-space coding patterns 🌌</p>
 
 </div>
 
-**Generate cosmic GitHub metrics for your profile!** ⭐ Supports 47+ plugins with 300+ options including isometric calendars, language analysis, stargazers worldmap, coding habits, and deep-space AI insights! 🌌
-
 <div align="center">✧ ✦ ✧ ✦ ✧ ✦ ✧</div>
+
+### Live Orbital Telemetry
 
 <table>
   <tr>
-    <th align="center">✨ CORE METRICS</th>
-    <th align="center">🪐 SPACE EXPLORATION</th>
+    <th align="center">✨ Commit Constellation (3D Isometric)</th>
+    <th align="center">🪐 Language Nebula</th>
   </tr>
   <tr>
     <td align="center">
-      <details open>
-        <summary>📅 Isometric Commit Calendar (Full Year)</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="400" alt="Isocalendar Full Year"/>
+      <details open><summary>Full-year galactic map</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/isocalendar.full.svg" width="400" alt="Commit Isometric Full Year"/>
       </details>
-      <details>
-        <summary>🈷️ Languages (In-Depth Analysis)</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" width="400" alt="Languages Indepth"/>
+      <details><summary>Half-year view</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/isocalendar.svg" width="400" alt="Commit Isometric Half Year"/>
       </details>
     </td>
     <td align="center">
-      <details open>
-        <summary>✨ Stargazers Worldmap</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" width="400" alt="Stargazers Worldmap"/>
+      <details open><summary>Deep language breakdown</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/languages.indepth.svg" width="400" alt="Languages In-depth"/>
       </details>
-      <details>
-        <summary>💡 Coding Habits & Activity</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" width="400" alt="Coding Habits"/>
+      <details><summary>Recent activity spectrum</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/languages.recent.svg" width="400" alt="Languages Recent"/>
       </details>
     </td>
   </tr>
+
   <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md">📅 Isocalendar</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md">🈷️ Languages</a></th>
-  </tr>
-  <tr>
-    <th colspan="2" align="center"><h3>🧩 47+ PLUGINS & 4 TEMPLATES! <a href="#plugins">See All →</a></h3></th>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/stargazers/README.md">✨ Stargazers</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md">💡 Habits</a></th>
+    <th align="center">🌟 Starfield (Stargazers Map)</th>
+    <th align="center">💡 Neural Habits & Patterns</th>
   </tr>
   <tr>
     <td align="center">
-      <details open><summary>Classic Charts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" width="400"/></details>
-      <details><summary>Graph View</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" width="400"/></details>
-      <img width="900" height="1"/>
+      <details open><summary>Global stargazer distribution</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/stargazers.worldmap.svg" width="400" alt="Stargazers World Map"/>
+      </details>
+      <details><summary>Star growth trajectory</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/stargazers.svg" width="400" alt="Stargazers Chart"/>
+      </details>
     </td>
     <td align="center">
-      <details open><summary>Activity Charts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" width="400"/></details>
-      <details><summary>Fun Facts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" width="400"/></details>
+      <details open><summary>Coding rhythm charts</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/habits.charts.svg" width="400" alt="Habits Charts"/>
+      </details>
+      <details><summary>Cosmic insights & facts</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/habits.facts.svg" width="400" alt="Habits Facts"/>
+      </details>
     </td>
   </tr>
+
   <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md">👨‍💻 Lines of Code</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md">🏆 Achievements</a></th>
+    <th align="center">🏆 Achievements Unlocked</th>
+    <th align="center">📈 Code Velocity (Lines Journey)</th>
   </tr>
   <tr>
     <td align="center">
-      <details open><summary>Repository History</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" width="400"/></details>
+      <details open><summary>Compact constellation</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/achievements.compact.svg" width="400" alt="Achievements Compact"/>
+      </details>
+      <details><summary>Detailed star map</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/achievements.svg" width="400" alt="Achievements Detailed"/>
+      </details>
     </td>
     <td align="center">
-      <details open><summary>Compact View</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" width="400"/></details>
+      <details open><summary>Repository velocity history</summary>
+        <img src="https://raw.githubusercontent.com/KozmikLojik/KozmikLojik/main/metrics/lines.history.svg" width="400" alt="Lines of Code History"/>
+      </details>
     </td>
   </tr>
 </table>
@@ -81,78 +89,71 @@
 <div align="center">✧ ✦ ✧ ✦ ✧ ✦ ✧</div>
 
 ## 📡 Table of Contents
+
 - [🛰️ Mission Control](#-mission-control)
-- [🛠️ Core Systems](#-core-systems) 
-- [📊 Live Cosmic Metrics](#-live-cosmic-metrics)
-- [🧩 All Plugins](#plugins)
-- [🖼️ Templates](#templates)
-- [🚀 Quick Setup](#quick-setup)
-- [✨ Philosophy](#philosophy)
-- [📡 Connect](#connect)
+- [🛠️ Core Systems](#-core-systems)
+- [📊 Live Orbital Telemetry](#-live-orbital-telemetry)
+- [✨ Philosophy](#-philosophy)
+- [📡 Cosmic Connect](#-cosmic-connect)
+- [Back to Orbit ↑](#top)
 
 <div align="center">✧ ✦ ✧ ✦ ✧ ✦ ✧</div>
 
 ## 🛰️ Mission Control
 
-**Autonomous Ship AI Core** — Real-time simulation + AI decision engines for deep-space vessels 🌌
+**Current Orbital Directive**  
+Autonomous Ship AI Core — real-time simulation, adaptive decision engines, deep-space autonomy systems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,docker,git,vscode,linux,aws,gcp,react" width="520" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,docker,git,vscode,linux,aws,gcp,react,nodejs,threejs" width="520" alt="Tech Constellation"/>
 </p>
 
-## 📊 Live Cosmic Metrics
+## 🛠️ Core Systems
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KozmikLojik&theme=tokyonight&hide_border=true" alt="Streak"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KozmikLojik&theme=tokyonight&no-bg=true&column=7" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KozmikLojik&theme=tokyonight&hide_border=true&date_format=j%20M%20%5B%20Y%20%5D" alt="Contribution Streak"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KozmikLojik&theme=tokyonight&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most+Used+Code+Units" alt="Top Languages"/>
 </p>
 
-## 🧩 #plugins Plugins (47+ Options!)
+<div align="center">✧ ✦ ✧ ✦ ✧ ✦ ✧</div>
 
-<details>
-<summary>🌟 Click to explore all cosmic plugins! ✨</summary>
+## ✨ Philosophy
 
-| Plugin | Description | Preview |
-|--------|-------------|---------|
-| [📅 Isocalendar](https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md) | 3D commit calendar | ![Iso](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg) |
-| [🈷️ Languages](https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md) | Code analysis | ![Lang](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg) |
-| [✨ Stargazers](https://github.com/lowlighter/metrics/blob/master/source/plugins/stargazers/README.md) | Worldmap + charts | ![Stars](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg) |
-| [💡 Habits](https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md) | Coding patterns | ![Habits](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg) |
+> "We do not merely write code.  
+> We launch minds into the void.  
+> Every decision engine is a captain.  
+> Every simulation — a starship.  
+> Destination: the unknown."
 
-**Full list:** [47 plugins →](https://github.com/lowlighter/metrics#plugins)
+Creating autonomous intelligence that thinks, adapts, and explores — because the future is not coming.  
+We are already accelerating toward it.
 
-</details>
+<div align="center">✧ ✦ ✧ ✦ ✧ ✦ ✧</div>
 
-## 🖼️ #templates Templates
+## 📡 Cosmic Connect
 
-| Template | Preview |
-|----------|---------|
-| [📗 Classic](https://github.com/lowlighter/metrics/blob/master/source/templates/classic/README.md) | ![Classic](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg) |
-| [📘 Repository](https://github.com/lowlighter/metrics/blob/master/source/templates/repository/README.md) | ![Repo](https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg) |
-| [📙 Terminal](https://github.com/lowlighter/metrics/blob/master/source/templates/terminal/README.md) | ![Terminal](https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg) |
+<p align="center">
+  <a href="https://github.com/KozmikLojik">
+    <img src="https://img.shields.io/badge/★+GitHub-KozmikLojik-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Prit_4K">
+    <img src="https://img.shields.io/badge/★+X-@Prit_4K-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
-## 🚀 #quick-setup Quick Setup (2 min!)
+<div align="center">
+  <samp>
+    [CORE LOG ACTIVE] — Forging tomorrow's autonomous frontier.<br/>
+    .<br/>
+    .: TRANSMISSION COMPLETE :. — [K.L.] — .: DEEP SPACE NOMINAL :.
+  </samp>
 
-```bash
-# 1. GitHub Action (Recommended ⭐)
-name: Cosmic Metrics
-on:
-  schedule: [{cron: "*/15 * * * *"}] # Every 15min
-  workflow_dispatch:
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: lowlighter/metrics@latest
-      with:
-        template: classic
-        user: KozmikLojik
-        token: ${{ secrets.METRICS_TOKEN }}
-        config_timezone: Asia/Kolkata
-        plugin_isocalendar: yes
-        plugin_languages: yes
-        plugin_habits: yes
-        plugin_stargazers: yes
+  <br/><br/>
+
+  <a href="#top">↑ Return to Orbit ↑</a>
+</div>
