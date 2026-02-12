@@ -1,64 +1,74 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4500&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=KOZMIKLOJIK;Architect+of+Intelligent+Starships;Deep+Space+AI+%26+Autonomous+Systems;Welcome+to+the+Next+Era" alt="KozmikLojik – Typing Hero" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=KOZMIKLOJIK;Building+the+Future+of+Autonomous+Intelligence;Deep+Space+Exploration+%26+AI+Systems" alt="Typing SVG" />
-
-  <br/>
-
-  <h3>🪐 Architect of Intelligent Starships & Digital Dreamscapes</h3>
-
-  <p>
-    <strong>@KozmikLojik</strong> — Crafting <strong>AI agents</strong>, <strong>autonomous systems</strong>, and <strong>story-driven worlds</strong> for the next era of cosmic discovery.
-  </p>
+  <br/><br/>
 
   <img src="https://img.shields.io/badge/Status-Deep%20Space%20Operational-00f0ff?style=for-the-badge&logo=spacex&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Autonomous%20Systems-7B68EE?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Theme-Space%20Exploration-2F4F4F?style=for-the-badge&logo=nasa&logoColor=white" alt="Theme"/>
+  <img src="https://img.shields.io/badge/Focus-AI+%26+Autonomous+Systems-7B68EE?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Theme-Cosmic+Exploration-2F4F4F?style=for-the-badge&logo=nasa&logoColor=white" alt="Theme"/>
+
+  <h3>🪐 Building the future of autonomous intelligence and cosmic discovery</h3>
+
+  <p>
+    <strong>@KozmikLojik</strong> — Crafting <strong>AI decision engines</strong>, <strong>real-time simulations</strong>, and <strong>story-driven digital universes</strong>.
+  </p>
 
 </div>
 
 ---
 
+## 📡 Table of Contents
+
+- [🛰️ Mission Control](#-mission-control)
+- [🛠️ Core Systems](#-core-systems)
+- [📈 Telemetry & Stats](#-telemetry--stats)
+- [📡 Connect](#-connect)
+- [✨ Philosophy](#-philosophy)
+- [Back to Top](#top)
+
+---
+
 ## 🛰️ Mission Control
 
-### 📡 Core Directives
+### Core Directives
 
 <p align="center">
   <a href="https://github.com/KozmikLojik?tab=repositories&q=ai">
-    <img src="https://img.shields.io/badge/Focus-AI%20Systems-B19CD9?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems"/>
+    <img src="https://img.shields.io/badge/AI+Systems-B19CD9?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
   </a>
   <a href="https://github.com/KozmikLojik?tab=repositories&q=space">
-    <img src="https://img.shields.io/badge/Theme-Deep%20Space%20Exploration-2F4F4F?style=for-the-badge&logo=nasa&logoColor=white" alt="Deep Space"/>
+    <img src="https://img.shields.io/badge/Deep+Space-2F4F4F?style=for-the-badge&logo=nasa&logoColor=white" alt="Space"/>
   </a>
   <a href="https://github.com/KozmikLojik?tab=repositories&q=game">
-    <img src="https://img.shields.io/badge/Project-Story-Driven%20Games-800000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev"/>
+    <img src="https://img.shields.io/badge/Story+Games-800000?style=for-the-badge&logo=unity&logoColor=white" alt="Games"/>
   </a>
 </p>
 
-### 🛰️ Current Orbital Focus
+### Current Focus
 
-**Ship System Design & Autonomous AI Core**  
-Building intelligent decision engines and simulation frameworks for deep-space exploration vessels.
+**Autonomous Ship AI Core**  
+Designing intelligent systems for deep-space vessels — real-time simulation, decision engines, and adaptive autonomy.
 
 ---
 
-## 🛠️ Engineering Bay – Core Systems
+## 🛠️ Core Systems
 
-### 🧰 Primary Languages & Tools
+### Primary Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,tensorflow,docker,git,vscode,md,linux,fastapi" alt="Tech Stack" width="480"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,tensorflow,fastapi,docker,git,vscode,linux,md,aws,gcp" alt="Tech Stack" width="520"/>
 </p>
 
 ---
 
-## 📈 System Telemetry (Live)
+## 📈 Telemetry & Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KozmikLojik&theme=tokyonight&hide_border=true&date_format=j%20M%20%5B%20Y%20%5D" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KozmikLojik&theme=tokyonight&hide_border=true&date_format=j%20M%20%5B%20Y%20%5D" alt="Streak"/>
 </p>
 
 <p align="center">
@@ -66,7 +76,7 @@ Building intelligent decision engines and simulation frameworks for deep-space e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Code%20Units" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 </p>
 
 ---
@@ -84,17 +94,26 @@ Building intelligent decision engines and simulation frameworks for deep-space e
 
 ---
 
+## ✨ Philosophy
+
+> "We don't just write code — we architect minds for the void.  
+> Every system is a starship. Every decision engine, a captain.  
+> Destination: the unknown."
+
+Building tools that think, adapt, and explore — because the future isn't coming; we're launching it.
+
+---
+
 <div align="center">
 
   <samp>
-    [CORE LOG] — Building truly cool, futuristic stuff.<br/>
-    Destination: The Next Era of Cosmic Discovery.<br/>
+    [CORE LOG ACTIVE] — Constructing tomorrow's autonomous frontier.<br/>
     .<br/>
-    .: TRANSMISSION END :. — [K.L.] — .: ALL SYSTEMS NOMINAL :.
+    .: TRANSMISSION COMPLETE :. — [K.L.] — .: SYSTEMS NOMINAL :.
   </samp>
 
   <br/><br/>
 
-  <a href="#top">↑ Back to Orbit ↑</a>
+  <a href="#top">↑ Return to Orbit ↑</a>
 
 </div>
