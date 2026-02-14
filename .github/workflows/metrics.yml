@@ -1,0 +1,33 @@
+name: Generate Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:     # Manual run button
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: KozmikLojik
+          template: classic
+          config_timezone: Asia/Calcutta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_stargazers: yes
+          plugin_stargazers_worldmap: yes
+          plugin_commit_time: yes
+          plugin_lines: yes
+          plugin_activity: yes
+          commits_author: KozmikLojik
+          output_action: commit
