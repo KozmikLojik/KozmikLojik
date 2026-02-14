@@ -1,21 +1,10 @@
-### 📊 Cosmic Metrics Dashboard (Auto-Updated Daily)
+### 📊 Cosmic Metrics Dashboard (Live Preview)
 
 <p align="center">
-  <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.svg" alt="Full Metrics" width="800"/>
+  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&base.header=0&config.timezone=Asia/Calcutta&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.indepth=1&habits=1&habits.facts=1&habits.charts=1&achievements=1&achievements.display=compact&commit_time=1&lines=1&activity=1&theme=tokyonight" alt="Full Cosmic Metrics" width="800"/>
 </p>
 
-### Detailed Views
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.isocalendar.full.svg" width="380"/></td>
-    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.languages.indepth.svg" width="380"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.habits.charts.svg" width="380"/></td>
-    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.commit_time.svg" width="380"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.stargazers.worldmap.svg" width="380"/></td>
-    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.achievements.compact.svg" width="380"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&isocalendar=1&isocalendar.duration=half-year&theme=tokyonight" width="380" alt="Isocalendar"/>
+  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&languages=1&languages.indepth=1&theme=tokyonight" width="380" alt="Languages"/>
+</p>
