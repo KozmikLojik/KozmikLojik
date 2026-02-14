@@ -1,1 +1,21 @@
-![Metrics](https://metrics.lecoq.io/KozmikLojik?template=classic&isocalendar=1&lines=1&languages=1&habits=1&stargazers=1&achievements=1&stars=1&calendar=1&repositories=1&traffic=1&steam=1&introduction=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html%2Ccss%2Cjava%2Cpython&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&introduction=false&introduction.title=true&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=76561199220516197&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=Asia%2FCalcutta)
+### 📊 Cosmic Metrics Dashboard (Auto-Updated Daily)
+
+<p align="center">
+  <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.svg" alt="Full Metrics" width="800"/>
+</p>
+
+### Detailed Views
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.isocalendar.full.svg" width="380"/></td>
+    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.languages.indepth.svg" width="380"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.habits.charts.svg" width="380"/></td>
+    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.commit_time.svg" width="380"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.stargazers.worldmap.svg" width="380"/></td>
+    <td><img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.achievements.compact.svg" width="380"/></td>
+  </tr>
+</table>
