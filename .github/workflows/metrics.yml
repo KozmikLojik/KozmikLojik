@@ -1,14 +1,21 @@
 name: Generate Metrics
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:     # Manual run button
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics
           token: ${{ secrets.METRICS_TOKEN }}
@@ -31,3 +38,5 @@ jobs:
           plugin_activity: yes
           commits_author: KozmikLojik
           output_action: commit
+          committer_name: github-actions[bot]
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
