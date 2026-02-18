@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm PRIT BHATT</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&config.timezone=Asia/Calcutta&isocalendar=1&languages=1&habits=1&achievements=1&commit_time=1&theme=tokyonight&width=800" alt="PRIT's GitHub Metrics" />
+</p>
+
+<p align="center">
+  <small>Simplified live metrics (calendar, languages, habits, achievements, commit time). Full version may load once service stabilizes.</small>
 </p>
 
 <p align="center">
