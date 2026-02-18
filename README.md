@@ -16,7 +16,8 @@
 ### 📊 My GitHub Metrics – Live Dashboard
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&config.timezone=Asia/Calcutta&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20languages&base.indepth=true&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.indepth=true&languages.threshold=0.1&languages.colors=github&languages.details=bytes-size%2Cpercentage&languages.limit=15&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=skyline%2C%20isocalendar&habits.trim=false&achievements=1&achievements.display=compact&achievements.threshold=C&commit_time=1&lines=1&activity=1&stargazers=1&theme=tokyonight&width=900&height=auto" alt="PRIT's Live GitHub Metrics" />
+  <img src="<p align="center">
+  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&config.timezone=Asia/Calcutta&isocalendar=1&languages=1&habits=1&achievements=1&commit_time=1&theme=tokyonight&width=800" alt="PRIT's Simplified Metrics" />
 </p>
 
 <p align="center">
