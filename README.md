@@ -16,7 +16,6 @@
 ### 📊 My GitHub Metrics – Live Dashboard
 
 <p align="center">
-  <img src="<p align="center">
   <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&config.timezone=Asia/Calcutta&isocalendar=1&languages=1&habits=1&achievements=1&commit_time=1&theme=tokyonight&width=800" alt="PRIT's Simplified Metrics" />
 </p>
 
