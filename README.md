@@ -36,7 +36,11 @@
   <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.isocalendar.full.svg" width="480" alt="Contribution Calendar" />
   <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.languages.indepth.svg" width="480" alt="Languages Breakdown" />
 -->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KozmikLojik&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 🚀 Quick Stats
