@@ -1,99 +1,60 @@
-# 📊 My GitHub Metrics
+<h1 align="center">Hi 👋, I'm PRIT BHATT</h1>
 
-Generate beautiful, embeddable metrics for your GitHub profile README!  
-Supports users, organizations, and repositories — fully customizable with plugins.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+</p>
 
-<table>
-  <tr>
-    <th align="center">User Profile Example</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Example Metrics" width="600" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.svg">
-      <br>
-      <small>(Your metrics will appear here once generated via workflow)</small>
-    </td>
-  </tr>
-  <tr>
-    <th align="center">
-      <h3>🧩 Customizable with 40+ plugins and hundreds of options!</h3>
-    </th>
-  </tr>
-  <tr>
-    <th><a href="#isocalendar">📅 Isometric commit calendar</a></th>
-    <th><a href="#languages">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <details open><summary>Full year calendar</summary>
-        <img alt="Isocalendar Full Year" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.isocalendar.full.svg">
-      </details>
-      <details><summary>Half year calendar</summary>
-        <img alt="Isocalendar Half Year" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.isocalendar.svg">
-      </details>
-    </td>
-    <td align="center">
-      <details open><summary>In-depth analysis</summary>
-        <img alt="Languages Indepth" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.languages.indepth.svg">
-      </details>
-      <details><summary>Recent activity</summary>
-        <img alt="Languages Recent" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.languages.recent.svg">
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <th><a href="#stargazers">✨ Stargazers</a></th>
-    <th><a href="#lines">👨‍💻 Lines of code changed</a></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <details open><summary>Worldmap</summary>
-        <img alt="Stargazers Worldmap" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.stargazers.worldmap.svg">
-      </details>
-      <details><summary>Classic charts</summary>
-        <img alt="Stargazers Chart" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.stargazers.svg">
-      </details>
-    </td>
-    <td align="center">
-      <details open><summary>History & diff</summary>
-        <img alt="Lines History" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.lines.history.svg">
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <th><a href="#habits">💡 Coding habits and activity</a></th>
-    <th><a href="#achievements">🏆 Achievements</a></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <details open><summary>Charts</summary>
-        <img alt="Habits Charts" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.habits.charts.svg">
-      </details>
-      <details><summary>Facts</summary>
-        <img alt="Habits Facts" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.habits.facts.svg">
-      </details>
-    </td>
-    <td align="center">
-      <details open><summary>Compact</summary>
-        <img alt="Achievements Compact" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.achievements.compact.svg">
-      </details>
-      <details><summary>Detailed</summary>
-        <img alt="Achievements Detailed" width="400" src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.achievements.svg">
-      </details>
-    </td>
-  </tr>
-  <!-- Add more plugin sections if you generate them via workflow -->
-</table>
+<p align="center">
+  <a href="https://github.com/KozmikLojik">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add other social badges here if you have them -->
+</p>
 
-## Quick Setup for Your Profile (GitHub Actions – Recommended)
+---
 
-1. Create a repo named exactly `KozmikLojik` (this one!)
-2. Add `.github/workflows/metrics.yml` with your config (see earlier messages for code)
-3. Create PAT token → add as repo secret `METRICS_TOKEN`
-4. Run workflow → SVGs commit automatically
-5. Embed in README as above (raw links)
+### 📊 My GitHub Metrics – Live Dashboard
 
-## Live Preview (while workflow runs)
+<p align="center">
+  <img src="https://metrics.lecoq.io/KozmikLojik?template=classic&config.timezone=Asia/Calcutta&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20languages&base.indepth=true&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.indepth=true&languages.threshold=0.1&languages.colors=github&languages.details=bytes-size%2Cpercentage&languages.limit=15&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=skyline%2C%20isocalendar&habits.trim=false&achievements=1&achievements.display=compact&achievements.threshold=C&commit_time=1&lines=1&activity=1&stargazers=1&theme=tokyonight&width=900&height=auto" alt="PRIT's Live GitHub Metrics" />
+</p>
 
-```markdown
-![My Metrics Live](https://metrics.lecoq.io/KozmikLojik?template=classic&config.timezone=Asia/Calcutta&isocalendar=1&languages=1&habits=1&achievements=1&commit_time=1&theme=tokyonight)
+<p align="center">
+  <small>Shows real-time stats: commit activity, contribution calendar, languages breakdown, coding habits, achievements, current streak, etc.<br>
+  Updates automatically — no workflow or files required in the repo.</small>
+</p>
+
+<!-- 
+  When your workflow finally starts committing the SVGs correctly, you can replace the live version above 
+  with these static images (they look sharper on dark/light themes):
+
+  <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.svg" width="800" alt="Metrics Overview" />
+  <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.isocalendar.full.svg" width="480" alt="Contribution Calendar" />
+  <img src="https://github.com/KozmikLojik/KozmikLojik/raw/main/metrics.languages.indepth.svg" width="480" alt="Languages Breakdown" />
+-->
+
+---
+
+### 🚀 Quick Stats
+
+- 🔭 I’m currently working on full-stack projects and open-source contributions
+- 🌱 I’m learning advanced TypeScript, Next.js, and system design
+- 👯 I’m looking to collaborate on interesting web3 / AI / developer tools projects
+- 💬 Ask me about JavaScript, React, Node.js, Python, Git workflows
+- 📫 Reach me: [your-email-or-twitter/discord here]
+
+---
+
+### 🛠️ Technologies & Tools
+
+<!-- You can generate this section with github-readme-stats or shields.io later -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,docker,git,github,vscode,figma" alt="Tech Stack" />
+</p>
+
+---
+
+Thanks for visiting! ⭐ Star my repos if you find something useful 😄
+
+Last updated: <!-- GitHub will auto-update this on commit -->
