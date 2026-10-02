@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:45a29e&height=220&section=header&text=PRIT%20BHATT&fontSize=52&fontColor=edf4f6&animation=fadeIn&fontAlignY=38&desc=APPLIED%20AI%20%2F%20COMPUTER%20VISION%20%2F%20SOFTWARE&descAlignY=60&descSize=15" width="100%" alt="Prit Bhatt — Applied AI, Computer Vision, Software" />
@@ -31,6 +32,7 @@ const prit = {
   currently: "Building projects and learning by doing",
   portfolio: "kozmik-lojik-github-io.vercel.app"
 };
+```
 
 I enjoy turning ideas into practical software — from computer vision experiments to web applications and automation tools.
 
