@@ -1,24 +1,102 @@
-# 💫 About Me:
- Hey there, I'm PRIT!<br>I'm a student passionate about Programming and Tech. Welcome to my GitHub profile!<br><br>🌱 I'm currently working on full-stack projects alongside studies.<br>💼 Looking to collaborate on web/AI/developer tools stuff.<br>📫 How to reach me: pritbhatt@example.com (replace with your real email)<br>😄 Pronouns: He/Him.<br>Let's connect and potentially build some cool stuff!<br><br>your-linkedin
+Here’s a README in that dark, visual GitHub-profile style. Copy it into `KozmikLojik/README.md`:
 
+```markdown
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prit-bhatt-25a892348/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Prit_4K) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritbhatt2010@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:45a29e&height=220&section=header&text=PRIT%20BHATT&fontSize=52&fontColor=edf4f6&animation=fadeIn&fontAlignY=38&desc=APPLIED%20AI%20%2F%20COMPUTER%20VISION%20%2F%20SOFTWARE&descAlignY=60&descSize=15" width="100%" alt="Prit Bhatt — Applied AI, Computer Vision, Software" />
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KozmikLojik&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KozmikLojik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://kozmik-lojik-github-io.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=72E5D1&center=true&vCenter=true&width=600&lines=Computer+Science+student;Building+with+AI+and+computer+vision;Learning+by+shipping+projects" alt="A short animated introduction" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<br />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KozmikLojik&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<a href="https://kozmik-lojik-github-io.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-72E5D1?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/prit-bhatt-25a892348">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/KozmikLojik?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KozmikLojik&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` &nbsp; About me
+
+```js
+const prit = {
+  studying: "Computer Science",
+  interests: ["Applied AI", "Computer Vision", "Automation", "Full-Stack"],
+  currently: "Building projects and learning by doing",
+  portfolio: "kozmik-lojik-github-io.vercel.app"
+};
+```
+
+I enjoy turning ideas into practical software — from computer vision experiments to web applications and automation tools.
+
+## `02` &nbsp; Selected projects
+
+<div align="center">
+
+<a href="https://github.com/KozmikLojik/aqua-vision-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KozmikLojik&repo=aqua-vision-ai&theme=tokyonight&hide_border=true" alt="Aqua Vision AI repository card" />
+</a>
+<a href="https://github.com/KozmikLojik/mediscan-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KozmikLojik&repo=mediscan-ai&theme=tokyonight&hide_border=true" alt="Mediscan AI repository card" />
+</a>
+<a href="https://github.com/KozmikLojik/hand_gesture_recognition">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KozmikLojik&repo=hand_gesture_recognition&theme=tokyonight&hide_border=true" alt="Hand Gesture Recognition repository card" />
+</a>
+<a href="https://github.com/KozmikLojik/ai-resume-screener">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KozmikLojik&repo=ai-resume-screener&theme=tokyonight&hide_border=true" alt="AI Resume Screener repository card" />
+</a>
+
+</div>
+
+## `03` &nbsp; Tech I use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+## `04` &nbsp; GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KozmikLojik&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=72E5D1&text_color=EDF4F6&icon_color=72E5D1" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozmikLojik&layout=compact&hide_border=true&bg_color=0D1117&title_color=72E5D1&text_color=EDF4F6" alt="Most used languages" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KozmikLojik&bg_color=0D1117&color=72E5D1&line=45A29E&point=EDF4F6&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## `05` &nbsp; Find me
+
+- **Portfolio:** [kozmik-lojik-github-io.vercel.app](https://kozmik-lojik-github-io.vercel.app)
+- **LinkedIn:** [prit-bhatt](https://www.linkedin.com/in/prit-bhatt-25a892348)
+- **Projects:** [Browse all repositories](https://github.com/KozmikLojik?tab=repositories)
+
+<div align="center">
+
+<br />
+
+*Thanks for stopping by — take a look around.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45a29e,100:0d1117&height=100&section=footer" width="100%" alt="" />
+
+</div>
+```
