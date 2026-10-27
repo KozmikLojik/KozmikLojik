@@ -28,7 +28,7 @@ I'm a computer science student interested in **AI, computer vision, space, and b
 
 I like learning by making things—whether that's experimenting with machine learning, creating web projects, or automating a task. I'm always curious about how technology can turn an idea into something people can use.
 
-When I'm away from the keyboard, I enjoy story-driven games. I finished **Tomb Raider** and immediately called it a masterpiece. 😄
+When I'm away from the keyboard, I enjoy  games. 
 
 <br clear="right" />
 
